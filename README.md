@@ -1,14 +1,4 @@
-**‘WeSee - A Helper for the Visually Impaired’**
-
-Simply, a web application for individuals with low vision capabilities to excel in daily tasks.
-
-Video of complete execeution of project: https://drive.google.com/file/d/1porrbt0-UMHPqTRN3VeefBLsWTg0TSJW/view?usp=sharing
-
-The project, ‘WeSee’ is aimed to address the challenges faced by visually impaired individuals by leveraging cutting-edge technologies, primarily based in Computer Vision and Digital Image Processing, specifically built upon the foundations of Deep Learning.
-It is an innovative assistive tool that empowers visually impaired users to access written and digital content seamlessly, by leveraging a device's camera to provide real-time information about the user's surroundings.
-
-Key structures of ‘WeSee’ include real-time text recognition, real-time object detection and audio output capabilities, enabling users to effortlessly comprehend and interact with their surroundings. Moreover, the system is designed to adapt to various environmental conditions, providing a robust solution for users in different settings.
-
-In conclusion, this project contributes to the inclusive integration of individuals with visual disability into our society by fostering independent access to information and promoting equal opportunities.
-
-Through the integration of state-of-the-art technologies in Artificial Intelligence and Machine Learning, this project aligns with the overarching goal of creating a more accessible and inclusive world for all individuals.
+Vision Aid is an advanced assistive technology designed to empower visually impaired individuals by integrating cutting-edge artificial intelligence. It leverages PaddleOCR for text recognition, YOLOv5 for deep learning-based object detection, and Google Text-to-Speech (gTTS) for real-time audio conversion. Vision Aid bridges accessibility gaps by enabling users to read printed text, recognize objects, and navigate their surroundings independently.
+Traditional accessibility tools often lack real-time efficiency and high accuracy, leaving visually impaired individuals reliant on external assistance. Vision Aid addresses these challenges with a structured methodology: image acquisition, preprocessing, text recognition, object detection, and conversion of extracted information into audible feedback. Deep learning algorithms enhance accuracy, ensuring reliable performance across various environments. The user-friendly interface is designed to accommodate different levels of visual impairment.
+Model optimization is key to Vision Aid’s performance. PaddleOCR is fine-tuned using adaptive thresholding and Gaussian blurring, while YOLOv5 undergoes enhancements to improve precision, recall, and mean average precision (mAP). Real-world testing has demonstrated high success rates in both text recognition and object identification, making the system highly reliable for daily use.
+Future mobile and cloud-based enhancements will further improve accessibility, allowing deployment across various devices. By leveraging AI to promote independence and inclusivity, Vision Aid sets a new standard for assistive technologies.
